@@ -10,6 +10,8 @@ Ruby wrapper for the Nulab's Backlog API.
 
 https://developer.nulab.com/docs/backlog/
 
+Originally maintained [here](https://github.com/emsk/backlog_kit) by [emsk](https://github.com/emsk).
+
 ## Installation
 
 Add this line to your application's Gemfile:
