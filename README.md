@@ -1,13 +1,9 @@
 # BacklogKit
 
-[![Gem Version](https://badge.fury.io/rb/backlog_kit.svg)](https://badge.fury.io/rb/backlog_kit)
-[![Build Status](https://github.com/emsk/backlog_kit/actions/workflows/build.yml/badge.svg)](https://github.com/emsk/backlog_kit/actions/workflows/build.yml)
-[![Build Status](https://travis-ci.org/emsk/backlog_kit.svg?branch=main)](https://travis-ci.org/emsk/backlog_kit)
-[![Build status](https://ci.appveyor.com/api/projects/status/no4jqaoimctfsejj?svg=true)](https://ci.appveyor.com/project/emsk/backlog-kit)
-[![Build Status](https://dev.azure.com/emsk/backlog_kit/_apis/build/status/emsk.backlog_kit?branchName=main)](https://dev.azure.com/emsk/backlog_kit/_build/latest?definitionId=1&branchName=main)
-[![Codecov](https://codecov.io/gh/emsk/backlog_kit/branch/main/graph/badge.svg)](https://codecov.io/gh/emsk/backlog_kit)
-[![Code Climate](https://codeclimate.com/github/emsk/backlog_kit/badges/gpa.svg)](https://codeclimate.com/github/emsk/backlog_kit)
-[![Inline docs](https://inch-ci.org/github/emsk/backlog_kit.svg?branch=main)](https://inch-ci.org/github/emsk/backlog_kit)
+[![Build Status](https://github.com/tamano/backlog_kit/actions/workflows/build.yml/badge.svg)](https://github.com/tamano/backlog_kit/actions/workflows/build.yml)
+[![Build Status](https://travis-ci.org/tamano/backlog_kit.svg?branch=main)](https://travis-ci.org/tamano/backlog_kit)
+[![codecov](https://codecov.io/gh/tamano/backlog_kit/branch/main/graph/badge.svg?token=h6G6ROHTgR)](https://codecov.io/gh/tamano/backlog_kit)
+[![Code Climate](https://codeclimate.com/github/tamano/backlog_kit/badges/gpa.svg)](https://codeclimate.com/github/tamano/backlog_kit)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 Ruby wrapper for the Nulab's Backlog API.
